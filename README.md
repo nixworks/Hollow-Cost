@@ -1,3 +1,4 @@
 # Hollow Cost
 #
-# data don't kill, people do
+data don't kill,
+people do
